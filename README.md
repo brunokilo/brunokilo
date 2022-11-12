@@ -4,7 +4,7 @@
 
 
 - 🌱 Estou estudando atualmente desenvolvimento web, estou aprendendo React.js para o front e C# para o backend.
-- 📘 Tenho conhecimentos básicos em HTML, CSS, JavaScript, C# e SQL.
+- 📘 Tenho conhecimentos básicos em HTML, CSS, JavaScript, C# e PostgreSQL.
 
 <!---
 brunokilo/brunokilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
