@@ -7,7 +7,7 @@
 - 📘 Tenho conhecimentos em HTML, CSS, JavaScript, React, C# e PostgreSQL.
 
 
-<embed src="https://wakatime.com/share/@bb83ec5b-9d66-4eac-91a7-6ee4094f3257/5a3b97d6-66dc-47bf-98f6-1650d76c383c.svg"></embed>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bb83ec5b-9d66-4eac-91a7-6ee4094f3257/868ea0d9-63ef-4645-a6d9-438c4dcef401.png" /></a>
 
 <!---
 brunokilo/brunokilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
