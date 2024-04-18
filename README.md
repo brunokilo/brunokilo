@@ -3,7 +3,7 @@
  Meu nome é Bruno Henrique e sou estudante de análise e desenvolvimento de sistemas. 
 
 
-## Tecnologias 
+##
 
 <div style="display: inline_block"><br/>
 
