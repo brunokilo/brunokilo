@@ -3,9 +3,18 @@
  Meu nome é Bruno Henrique e sou estudante de análise e desenvolvimento de sistemas. 
 
 
-- 🌱 Estou estudando atualmente desenvolvimento web, estou aprendendo React.js para o front e C# para o backend.
-- 📘 Tenho conhecimentos em HTML, CSS, JavaScript, React, C# e PostgreSQL.
+## Tecnologias 
 
+<div style="display: inline_block"><br/>
+
+ <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+ <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+ <img align="center" alt="neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+
+</div>
 
 <!---
 brunokilo/brunokilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
