@@ -1,6 +1,8 @@
  Olá 👋
 
- Meu nome é Bruno Henrique e sou estudante de análise e desenvolvimento de sistemas. 
+ Meu nome é Bruno Henrique e sou formado em análise e desenvolvimento de sistemas.
+
+ Também sou estudante de engenharia de software.
 
 
 ##
